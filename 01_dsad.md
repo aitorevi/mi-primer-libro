@@ -1,3 +1,0 @@
-# dsad
-
-Escribe el contenido de este capítulo aquí...
