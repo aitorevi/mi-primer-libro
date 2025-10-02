@@ -4,7 +4,7 @@
 
 00. [Introduccion](./00_introduccion.md)
 01. [Preludio](./01_preludio.md)
-02. [Preludio](./02_preludio.md)
+02. [Preludio 2](./02_preludio_2.md)
 03. [Records](./03_records.md)
 
 ---
