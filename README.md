@@ -3,8 +3,8 @@
 ## Índice de Capítulos
 
 00. [Introduccion](./00_introduccion.md)
-01. [Records](./01_records.md)
-02. [Preludio](./02_preludio.md)
+01. [Preludio](./01_preludio.md)
+02. [Records](./02_records.md)
 
 ---
 
