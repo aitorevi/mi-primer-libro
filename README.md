@@ -9,5 +9,5 @@
 ---
 
 *Libro generado con [Editor de Libros Markdown](http://localhost:3000)*
-*Fecha: 10/2/2025*
+*Fecha: 10/4/2025*
 *Total de capítulos: 3*
