@@ -1,3 +1,0 @@
-# nfjhdj jf dhf ks kjfhkjs kjhskj fkjhjsh kjhf kjhskj d
-
-Escribe el contenido de este capítulo aquí...
