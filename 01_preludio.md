@@ -1,3 +1,0 @@
-# Preludio limpio
-
-**Hola** Hola
